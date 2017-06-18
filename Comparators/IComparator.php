@@ -3,7 +3,7 @@
 namespace Comparators;
 
 
-interface Comapator
+interface IComparator
 {
     /**
      * Процесс сравнения

@@ -3,7 +3,7 @@
 namespace Comparators;
 
 
-abstract class AComparator implements Comapator
+abstract class AComparator implements IComparator
 {
     /**
      * @var string $firstString Срока для сравнения
