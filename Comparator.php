@@ -1,8 +1,9 @@
 <?php
 
 use \Comparators\AComparator;
+use \Comparators\IComparator;
 
-class Comparator implements \Comparators\IComparator
+class Comparator implements IComparator
 {
     /**
      * Входящие строки подлежащие сравнению
